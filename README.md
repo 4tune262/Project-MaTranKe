@@ -222,6 +222,3 @@ Chương trình gồm **44 chức năng**, bao gồm:
 
 **Dương Tấn Lộc**
 
-Sinh viên Công nghệ Thông tin
-
-GitHub: https://github.com/yourusername
